@@ -3,8 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#running environment 
 side/
 mlflow/
+mlruns/
+
+
 # C extensions
 *.so
 
