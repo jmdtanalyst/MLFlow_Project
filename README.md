@@ -28,20 +28,6 @@ pandas
 numpy
 ```
 
-## Installation
-
-```bash
-git clone [your-repository-url]
-cd [your-project-name]
-pip install -r requirements.txt
-```
-
-## Usage
-
-1. Run the training script:
-```bash
-python train.py
-```
 
 2. View MLflow UI:
 ```bash
