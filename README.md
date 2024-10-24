@@ -35,16 +35,7 @@ mlflow ui
 ```
 Navigate to `http://localhost:5000` to view experiments
 
-## Project Structure
 
-```
-├── README.md
-├── requirements.txt
-├── train.py
-├── data/
-│   └── iris.csv
-└── mlruns/
-```
 
 ## Features
 
